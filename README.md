@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6CA4FA&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=500&center=true&vCenter=true&width=1000&color=6CA4FA&lines=Hi%2C+my+name+is+Anderson+Verrone+Funicello;I'm+34+years+old;I'm+from+S%C3%A3o+Paulo%2C+SP;I'm+a+Front+End+Developer;and+soon+a+Full-Stack+developer;welcome+on+my+github+%F0%9F%98%84)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=500&center=true&vCenter=true&width=1000&color=6CA4FA&lines=Hi%2C+my+name+is+Anderson+Verrone+Funicello;I'm+34+years+old;I'm+from+S%C3%A3o+Paulo%2C+SP;I'm+a+Full-Stack+developer;welcome+on+my+github+%F0%9F%98%84)](https://git.io/typing-svg)
 
 <!-- ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=AndersonVerrone&show_icons=true) -->
 
